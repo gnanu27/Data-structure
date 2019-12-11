@@ -12,4 +12,3 @@ A = [84, 21, 96, 15, 47]
 print('Original List', A)
 selectionSort(A)
 print('Sorted List', A)
-
